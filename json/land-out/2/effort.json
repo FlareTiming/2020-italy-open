@@ -1,0 +1,282 @@
+[
+  [
+    [
+      "135",
+      "Cristian Inverardi"
+    ],
+    {
+      "frac": 1,
+      "effort": "72.161000 km"
+    }
+  ],
+  [
+    [
+      "139",
+      "Alessandro Madaluni"
+    ],
+    {
+      "frac": 0.99804688,
+      "effort": "71.754000 km"
+    }
+  ],
+  [
+    [
+      "113",
+      "Tommaso Carlini"
+    ],
+    {
+      "frac": 0.97460938,
+      "effort": "69.148000 km"
+    }
+  ],
+  [
+    [
+      "108",
+      "Michele Boschi"
+    ],
+    {
+      "frac": 0.97167969,
+      "effort": "68.978000 km"
+    }
+  ],
+  [
+    [
+      "147",
+      "Francesco Orcese"
+    ],
+    {
+      "frac": 0.96484375,
+      "effort": "68.515000 km"
+    }
+  ],
+  [
+    [
+      "133",
+      "Alessio Guidi"
+    ],
+    {
+      "frac": 0.93505859,
+      "effort": "67.280000 km"
+    }
+  ],
+  [
+    [
+      "144",
+      "Riccardo Marchetto"
+    ],
+    {
+      "frac": 0.87255859,
+      "effort": "64.917000 km"
+    }
+  ],
+  [
+    [
+      "161",
+      "Matteo Siragna"
+    ],
+    {
+      "frac": 0.86962891,
+      "effort": "64.816000 km"
+    }
+  ],
+  [
+    [
+      "122",
+      "Angelo Dell’Aira"
+    ],
+    {
+      "frac": 0.86572266,
+      "effort": "64.765000 km"
+    }
+  ],
+  [
+    [
+      "158",
+      "Antonio Ruta"
+    ],
+    {
+      "frac": 0.83398438,
+      "effort": "63.927000 km"
+    }
+  ],
+  [
+    [
+      "176",
+      "Francesco Fontanesi"
+    ],
+    {
+      "frac": 0.63769531,
+      "effort": "55.834000 km"
+    }
+  ],
+  [
+    [
+      "152",
+      "Alessandro Pompei"
+    ],
+    {
+      "frac": 0.63183594,
+      "effort": "54.524000 km"
+    }
+  ],
+  [
+    [
+      "165",
+      "Andrea Terenziani"
+    ],
+    {
+      "frac": 0.62597656,
+      "effort": "53.941000 km"
+    }
+  ],
+  [
+    [
+      "131",
+      "Marco Gentilini"
+    ],
+    {
+      "frac": 0.62597656,
+      "effort": "53.949000 km"
+    }
+  ],
+  [
+    [
+      "160",
+      "Giuseppe Simone"
+    ],
+    {
+      "frac": 0.62060547,
+      "effort": "53.668000 km"
+    }
+  ],
+  [
+    [
+      "149",
+      "Alessandro Palma"
+    ],
+    {
+      "frac": 0.609375,
+      "effort": "53.138000 km"
+    }
+  ],
+  [
+    [
+      "167",
+      "Ionut Ulici"
+    ],
+    {
+      "frac": 0.47070312,
+      "effort": "48.058000 km"
+    }
+  ],
+  [
+    [
+      "107",
+      "Gabriele Bonafini"
+    ],
+    {
+      "frac": 0.38574219,
+      "effort": "40.477000 km"
+    }
+  ],
+  [
+    [
+      "120",
+      "Gabriele D'Arrigo"
+    ],
+    {
+      "frac": 0.34765625,
+      "effort": "27.996000 km"
+    }
+  ],
+  [
+    [
+      "114",
+      "Mirco Casarini"
+    ],
+    {
+      "frac": 0.3359375,
+      "effort": "25.329000 km"
+    }
+  ],
+  [
+    [
+      "125",
+      "Grzegorz Fiema"
+    ],
+    {
+      "frac": 0.29882812,
+      "effort": "21.271000 km"
+    }
+  ],
+  [
+    [
+      "140",
+      "Maurizio Maina"
+    ],
+    {
+      "frac": 0.26708984,
+      "effort": "18.476000 km"
+    }
+  ],
+  [
+    [
+      "104",
+      "Loris Berta"
+    ],
+    {
+      "frac": 0.26708984,
+      "effort": "18.500000 km"
+    }
+  ],
+  [
+    [
+      "110",
+      "Klaudia Bulgakow"
+    ],
+    {
+      "frac": 0.25488281,
+      "effort": "17.772000 km"
+    }
+  ],
+  [
+    [
+      "128",
+      "Michele Gaiba"
+    ],
+    {
+      "frac": 0.21826172,
+      "effort": "15.809000 km"
+    }
+  ],
+  [
+    [
+      "118",
+      "Igor D'Agostino"
+    ],
+    {
+      "frac": 0.16162109,
+      "effort": "13.330000 km"
+    }
+  ],
+  [
+    [
+      "119",
+      "Maria Antonietta D'Angela"
+    ],
+    {
+      "frac": 0.0625,
+      "effort": "6.437000 km"
+    }
+  ],
+  [
+    [
+      "123",
+      "Sergio Di Fazio"
+    ],
+    {
+      "frac": 0.05957031,
+      "effort": "6.181000 km"
+    }
+  ]
+]

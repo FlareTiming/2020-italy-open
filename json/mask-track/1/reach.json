@@ -1,0 +1,722 @@
+[
+  [
+    [
+      "138",
+      "Marco Littamè"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "146",
+      "Joachim Oberhauser"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "111",
+      "Marco Busetta"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "121",
+      "Giorgio Darra"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "171",
+      "Biagio Alberto Vitale"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "165",
+      "Andrea Terenziani"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "177",
+      "Bogdan Bialka"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "106",
+      "Christian Biasi"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "173",
+      "Paolo Zammarchi"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "166",
+      "Tiziano Trambaioli"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "157",
+      "Elio Rossi"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "109",
+      "Federico Brown Manzone"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "127",
+      "Richárd Gabrieli"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "137",
+      "Slawomir Kaczynski"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "161",
+      "Matteo Siragna"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "124",
+      "Paolo Facchini"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "141",
+      "Albino Malli"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "172",
+      "Alessio Voltan"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "117",
+      "Gianfranco Crestani"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "115",
+      "Alberto Castagna"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "104",
+      "Loris Berta"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "168",
+      "Marco Valentini"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "102",
+      "Matteo Bacchiocchi"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "140",
+      "Maurizio Maina"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "126",
+      "Alessandro Fuzzi"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "105",
+      "Daniele Bevilacqua"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "122",
+      "Angelo Dell’Aira"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "139",
+      "Alessandro Madaluni"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "116",
+      "Ivan Centa"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "169",
+      "Alessandro Vallero"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "128",
+      "Michele Gaiba"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "129",
+      "Luciano Gallo"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "153",
+      "Gianbasilio Profiti"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "154",
+      "Stefano Pucci"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "110",
+      "Klaudia Bulgakow"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "113",
+      "Tommaso Carlini"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "108",
+      "Michele Boschi"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "112",
+      "Silvia Buzzi Ferraris"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "160",
+      "Giuseppe Simone"
+    ],
+    {
+      "reach": "51.517078 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "164",
+      "Anca Tabara"
+    ],
+    {
+      "reach": "47.969078 km",
+      "frac": 0.93112963
+    }
+  ],
+  [
+    [
+      "174",
+      "Davide Zaltron"
+    ],
+    {
+      "reach": "47.807078 km",
+      "frac": 0.92798505
+    }
+  ],
+  [
+    [
+      "130",
+      "Andrea Garolla"
+    ],
+    {
+      "reach": "47.504078 km",
+      "frac": 0.9221035
+    }
+  ],
+  [
+    [
+      "170",
+      "Paolo Veratti"
+    ],
+    {
+      "reach": "45.753078 km",
+      "frac": 0.88811477
+    }
+  ],
+  [
+    [
+      "178",
+      "Marius Saigiu"
+    ],
+    {
+      "reach": "44.235078 km",
+      "frac": 0.85864882
+    }
+  ],
+  [
+    [
+      "101",
+      "Diego Ardissone"
+    ],
+    {
+      "reach": "42.608078 km",
+      "frac": 0.82706706
+    }
+  ],
+  [
+    [
+      "147",
+      "Francesco Orcese"
+    ],
+    {
+      "reach": "42.467078 km",
+      "frac": 0.8243301
+    }
+  ],
+  [
+    [
+      "114",
+      "Mirco Casarini"
+    ],
+    {
+      "reach": "41.419078 km",
+      "frac": 0.80398733
+    }
+  ],
+  [
+    [
+      "145",
+      "Federico Nevastro"
+    ],
+    {
+      "reach": "41.044078 km",
+      "frac": 0.79670819
+    }
+  ],
+  [
+    [
+      "120",
+      "Gabriele D'Arrigo"
+    ],
+    {
+      "reach": "40.217078 km",
+      "frac": 0.78065526
+    }
+  ],
+  [
+    [
+      "135",
+      "Cristian Inverardi"
+    ],
+    {
+      "reach": "40.129078 km",
+      "frac": 0.77894709
+    }
+  ],
+  [
+    [
+      "150",
+      "Luca Paoletti"
+    ],
+    {
+      "reach": "39.811078 km",
+      "frac": 0.77277438
+    }
+  ],
+  [
+    [
+      "167",
+      "Ionut Ulici"
+    ],
+    {
+      "reach": "36.645078 km",
+      "frac": 0.71131903
+    }
+  ],
+  [
+    [
+      "151",
+      "Piergiorgio Pintossi"
+    ],
+    {
+      "reach": "35.296078 km",
+      "frac": 0.68513354
+    }
+  ],
+  [
+    [
+      "142",
+      "Luca Mammucari"
+    ],
+    {
+      "reach": "27.251078 km",
+      "frac": 0.52897173
+    }
+  ],
+  [
+    [
+      "144",
+      "Riccardo Marchetto"
+    ],
+    {
+      "reach": "21.577078 km",
+      "frac": 0.4188335
+    }
+  ],
+  [
+    [
+      "136",
+      "Gbriel-Alexandru Ivan"
+    ],
+    {
+      "reach": "21.042078 km",
+      "frac": 0.40844859
+    }
+  ],
+  [
+    [
+      "148",
+      "Luciano Pagnoni"
+    ],
+    {
+      "reach": "20.829078 km",
+      "frac": 0.40431404
+    }
+  ],
+  [
+    [
+      "131",
+      "Marco Gentilini"
+    ],
+    {
+      "reach": "18.509078 km",
+      "frac": 0.35928043
+    }
+  ],
+  [
+    [
+      "155",
+      "Alfio Ragaglia"
+    ],
+    {
+      "reach": "17.982078 km",
+      "frac": 0.34905081
+    }
+  ],
+  [
+    [
+      "149",
+      "Alessandro Palma"
+    ],
+    {
+      "reach": "17.913078 km",
+      "frac": 0.34771145
+    }
+  ],
+  [
+    [
+      "152",
+      "Alessandro Pompei"
+    ],
+    {
+      "reach": "17.404078 km",
+      "frac": 0.33783123
+    }
+  ],
+  [
+    [
+      "162",
+      "Arkadiusz Slusarczyk"
+    ],
+    {
+      "reach": "14.809078 km",
+      "frac": 0.28745959
+    }
+  ],
+  [
+    [
+      "107",
+      "Gabriele Bonafini"
+    ],
+    {
+      "reach": "14.640078 km",
+      "frac": 0.28417912
+    }
+  ],
+  [
+    [
+      "133",
+      "Alessio Guidi"
+    ],
+    {
+      "reach": "14.075078 km",
+      "frac": 0.27321189
+    }
+  ],
+  [
+    [
+      "119",
+      "Maria Antonietta D'Angela"
+    ],
+    {
+      "reach": "14.054078 km",
+      "frac": 0.27280425
+    }
+  ],
+  [
+    [
+      "118",
+      "Igor D'Agostino"
+    ],
+    {
+      "reach": "12.232078 km",
+      "frac": 0.23743734
+    }
+  ],
+  [
+    [
+      "143",
+      "Valerio Marchetti"
+    ],
+    {
+      "reach": "11.195078 km",
+      "frac": 0.21730809
+    }
+  ],
+  [
+    [
+      "158",
+      "Antonio Ruta"
+    ],
+    {
+      "reach": "11.014078 km",
+      "frac": 0.2137947
+    }
+  ],
+  [
+    [
+      "179",
+      "Charles Henrique Guimaraes Moura"
+    ],
+    {
+      "reach": "10.646078 km",
+      "frac": 0.20665143
+    }
+  ],
+  [
+    [
+      "156",
+      "Massimo Rapari"
+    ],
+    {
+      "reach": "8.104078 km",
+      "frac": 0.15730857
+    }
+  ],
+  [
+    [
+      "123",
+      "Sergio Di Fazio"
+    ],
+    {
+      "reach": "5.285078 km",
+      "frac": 0.10258885
+    }
+  ],
+  [
+    [
+      "176",
+      "Francesco Fontanesi"
+    ],
+    {
+      "reach": "3.625078 km",
+      "frac": 0.07036653
+    }
+  ]
+]

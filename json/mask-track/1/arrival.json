@@ -1,0 +1,431 @@
+[
+  [
+    [
+      "138",
+      "Marco Littamè"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.000000 h",
+      "rank": "1"
+    }
+  ],
+  [
+    [
+      "146",
+      "Joachim Oberhauser"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.000488 h",
+      "rank": "2"
+    }
+  ],
+  [
+    [
+      "111",
+      "Marco Busetta"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.001052 h",
+      "rank": "3"
+    }
+  ],
+  [
+    [
+      "121",
+      "Giorgio Darra"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.003734 h",
+      "rank": "4"
+    }
+  ],
+  [
+    [
+      "171",
+      "Biagio Alberto Vitale"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.005143 h",
+      "rank": "5"
+    }
+  ],
+  [
+    [
+      "165",
+      "Andrea Terenziani"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.008369 h",
+      "rank": "6"
+    }
+  ],
+  [
+    [
+      "177",
+      "Bogdan Bialka"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.011287 h",
+      "rank": "7"
+    }
+  ],
+  [
+    [
+      "106",
+      "Christian Biasi"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.011344 h",
+      "rank": "8"
+    }
+  ],
+  [
+    [
+      "173",
+      "Paolo Zammarchi"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.016290 h",
+      "rank": "9"
+    }
+  ],
+  [
+    [
+      "166",
+      "Tiziano Trambaioli"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.016717 h",
+      "rank": "10"
+    }
+  ],
+  [
+    [
+      "157",
+      "Elio Rossi"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.018264 h",
+      "rank": "11"
+    }
+  ],
+  [
+    [
+      "109",
+      "Federico Brown Manzone"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.020923 h",
+      "rank": "12"
+    }
+  ],
+  [
+    [
+      "127",
+      "Richárd Gabrieli"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.020976 h",
+      "rank": "13"
+    }
+  ],
+  [
+    [
+      "137",
+      "Slawomir Kaczynski"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.021084 h",
+      "rank": "14"
+    }
+  ],
+  [
+    [
+      "161",
+      "Matteo Siragna"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.021267 h",
+      "rank": "15"
+    }
+  ],
+  [
+    [
+      "124",
+      "Paolo Facchini"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.022842 h",
+      "rank": "16"
+    }
+  ],
+  [
+    [
+      "141",
+      "Albino Malli"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.024262 h",
+      "rank": "17"
+    }
+  ],
+  [
+    [
+      "172",
+      "Alessio Voltan"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.028129 h",
+      "rank": "18"
+    }
+  ],
+  [
+    [
+      "117",
+      "Gianfranco Crestani"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.031218 h",
+      "rank": "19"
+    }
+  ],
+  [
+    [
+      "115",
+      "Alberto Castagna"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.043574 h",
+      "rank": "20"
+    }
+  ],
+  [
+    [
+      "104",
+      "Loris Berta"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.046844 h",
+      "rank": "21"
+    }
+  ],
+  [
+    [
+      "168",
+      "Marco Valentini"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.051225 h",
+      "rank": "22"
+    }
+  ],
+  [
+    [
+      "102",
+      "Matteo Bacchiocchi"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.061715 h",
+      "rank": "23"
+    }
+  ],
+  [
+    [
+      "140",
+      "Maurizio Maina"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.065877 h",
+      "rank": "24"
+    }
+  ],
+  [
+    [
+      "126",
+      "Alessandro Fuzzi"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.069099 h",
+      "rank": "25"
+    }
+  ],
+  [
+    [
+      "105",
+      "Daniele Bevilacqua"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.071260 h",
+      "rank": "26"
+    }
+  ],
+  [
+    [
+      "122",
+      "Angelo Dell’Aira"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.118032 h",
+      "rank": "27"
+    }
+  ],
+  [
+    [
+      "139",
+      "Alessandro Madaluni"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.128931 h",
+      "rank": "28"
+    }
+  ],
+  [
+    [
+      "116",
+      "Ivan Centa"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.167121 h",
+      "rank": "29"
+    }
+  ],
+  [
+    [
+      "169",
+      "Alessandro Vallero"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.286939 h",
+      "rank": "30"
+    }
+  ],
+  [
+    [
+      "128",
+      "Michele Gaiba"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.352888 h",
+      "rank": "31"
+    }
+  ],
+  [
+    [
+      "129",
+      "Luciano Gallo"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.378462 h",
+      "rank": "32"
+    }
+  ],
+  [
+    [
+      "153",
+      "Gianbasilio Profiti"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.384252 h",
+      "rank": "33"
+    }
+  ],
+  [
+    [
+      "154",
+      "Stefano Pucci"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.414650 h",
+      "rank": "34"
+    }
+  ],
+  [
+    [
+      "110",
+      "Klaudia Bulgakow"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.421368 h",
+      "rank": "35"
+    }
+  ],
+  [
+    [
+      "113",
+      "Tommaso Carlini"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.529563 h",
+      "rank": "36"
+    }
+  ],
+  [
+    [
+      "108",
+      "Michele Boschi"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.625262 h",
+      "rank": "37"
+    }
+  ],
+  [
+    [
+      "112",
+      "Silvia Buzzi Ferraris"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.686534 h",
+      "rank": "38"
+    }
+  ],
+  [
+    [
+      "160",
+      "Giuseppe Simone"
+    ],
+    {
+      "frac": 0,
+      "lag": "0.936713 h",
+      "rank": "39"
+    }
+  ]
+]

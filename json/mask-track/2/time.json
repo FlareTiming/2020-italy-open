@@ -1,0 +1,482 @@
+[
+  [
+    [
+      "124",
+      "Paolo Facchini"
+    ],
+    {
+      "time": "2.345431 h",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "180",
+      "Michal Gierlach"
+    ],
+    {
+      "time": "2.346804 h",
+      "frac": 0.99070407
+    }
+  ],
+  [
+    [
+      "175",
+      "Mariusz Wisniowski"
+    ],
+    {
+      "time": "2.346896 h",
+      "frac": 0.99029486
+    }
+  ],
+  [
+    [
+      "106",
+      "Christian Biasi"
+    ],
+    {
+      "time": "2.347012 h",
+      "frac": 0.9897877
+    }
+  ],
+  [
+    [
+      "146",
+      "Joachim Oberhauser"
+    ],
+    {
+      "time": "2.348023 h",
+      "frac": 0.98579987
+    }
+  ],
+  [
+    [
+      "159",
+      "Krzysztof Schmidt"
+    ],
+    {
+      "time": "2.349676 h",
+      "frac": 0.98026797
+    }
+  ],
+  [
+    [
+      "115",
+      "Alberto Castagna"
+    ],
+    {
+      "time": "2.356141 h",
+      "frac": 0.96343223
+    }
+  ],
+  [
+    [
+      "172",
+      "Alessio Voltan"
+    ],
+    {
+      "time": "2.377093 h",
+      "frac": 0.92467411
+    }
+  ],
+  [
+    [
+      "127",
+      "Richárd Gabrieli"
+    ],
+    {
+      "time": "2.380793 h",
+      "frac": 0.91891434
+    }
+  ],
+  [
+    [
+      "177",
+      "Bogdan Bialka"
+    ],
+    {
+      "time": "2.383654 h",
+      "frac": 0.91459657
+    }
+  ],
+  [
+    [
+      "132",
+      "Jacek Górski"
+    ],
+    {
+      "time": "2.386535 h",
+      "frac": 0.91035808
+    }
+  ],
+  [
+    [
+      "112",
+      "Silvia Buzzi Ferraris"
+    ],
+    {
+      "time": "2.388958 h",
+      "frac": 0.90686868
+    }
+  ],
+  [
+    [
+      "155",
+      "Alfio Ragaglia"
+    ],
+    {
+      "time": "2.389164 h",
+      "frac": 0.90657589
+    }
+  ],
+  [
+    [
+      "117",
+      "Gianfranco Crestani"
+    ],
+    {
+      "time": "2.393232 h",
+      "frac": 0.9008675
+    }
+  ],
+  [
+    [
+      "137",
+      "Slawomir Kaczynski"
+    ],
+    {
+      "time": "2.393590 h",
+      "frac": 0.90037377
+    }
+  ],
+  [
+    [
+      "109",
+      "Federico Brown Manzone"
+    ],
+    {
+      "time": "2.424373 h",
+      "frac": 0.8614959
+    }
+  ],
+  [
+    [
+      "168",
+      "Marco Valentini"
+    ],
+    {
+      "time": "2.447604 h",
+      "frac": 0.83550708
+    }
+  ],
+  [
+    [
+      "154",
+      "Stefano Pucci"
+    ],
+    {
+      "time": "2.449034 h",
+      "frac": 0.83397488
+    }
+  ],
+  [
+    [
+      "138",
+      "Marco Littamè"
+    ],
+    {
+      "time": "2.495322 h",
+      "frac": 0.78762255
+    }
+  ],
+  [
+    [
+      "111",
+      "Marco Busetta"
+    ],
+    {
+      "time": "2.501721 h",
+      "frac": 0.78162018
+    }
+  ],
+  [
+    [
+      "142",
+      "Luca Mammucari"
+    ],
+    {
+      "time": "2.504246 h",
+      "frac": 0.77927494
+    }
+  ],
+  [
+    [
+      "173",
+      "Paolo Zammarchi"
+    ],
+    {
+      "time": "2.517548 h",
+      "frac": 0.76711526
+    }
+  ],
+  [
+    [
+      "157",
+      "Elio Rossi"
+    ],
+    {
+      "time": "2.523560 h",
+      "frac": 0.76172308
+    }
+  ],
+  [
+    [
+      "171",
+      "Biagio Alberto Vitale"
+    ],
+    {
+      "time": "2.550162 h",
+      "frac": 0.7385543
+    }
+  ],
+  [
+    [
+      "150",
+      "Luca Paoletti"
+    ],
+    {
+      "time": "2.613896 h",
+      "frac": 0.68677921
+    }
+  ],
+  [
+    [
+      "126",
+      "Alessandro Fuzzi"
+    ],
+    {
+      "time": "2.715659 h",
+      "frac": 0.6119347
+    }
+  ],
+  [
+    [
+      "145",
+      "Federico Nevastro"
+    ],
+    {
+      "time": "2.758263 h",
+      "frac": 0.58270743
+    }
+  ],
+  [
+    [
+      "156",
+      "Massimo Rapari"
+    ],
+    {
+      "time": "2.770600 h",
+      "frac": 0.57443411
+    }
+  ],
+  [
+    [
+      "164",
+      "Anca Tabara"
+    ],
+    {
+      "time": "2.772011 h",
+      "frac": 0.57349322
+    }
+  ],
+  [
+    [
+      "170",
+      "Paolo Veratti"
+    ],
+    {
+      "time": "2.774107 h",
+      "frac": 0.57209744
+    }
+  ],
+  [
+    [
+      "116",
+      "Ivan Centa"
+    ],
+    {
+      "time": "2.776495 h",
+      "frac": 0.57050958
+    }
+  ],
+  [
+    [
+      "105",
+      "Daniele Bevilacqua"
+    ],
+    {
+      "time": "2.812961 h",
+      "frac": 0.54661744
+    }
+  ],
+  [
+    [
+      "148",
+      "Luciano Pagnoni"
+    ],
+    {
+      "time": "2.887888 h",
+      "frac": 0.49938669
+    }
+  ],
+  [
+    [
+      "141",
+      "Albino Malli"
+    ],
+    {
+      "time": "3.033921 h",
+      "frac": 0.41315428
+    }
+  ],
+  [
+    [
+      "102",
+      "Matteo Bacchiocchi"
+    ],
+    {
+      "time": "3.050742 h",
+      "frac": 0.40363457
+    }
+  ],
+  [
+    [
+      "178",
+      "Marius Saigiu"
+    ],
+    {
+      "time": "3.052337 h",
+      "frac": 0.40273576
+    }
+  ],
+  [
+    [
+      "174",
+      "Davide Zaltron"
+    ],
+    {
+      "time": "3.052726 h",
+      "frac": 0.40251646
+    }
+  ],
+  [
+    [
+      "121",
+      "Giorgio Darra"
+    ],
+    {
+      "time": "3.066128 h",
+      "frac": 0.39499265
+    }
+  ],
+  [
+    [
+      "153",
+      "Gianbasilio Profiti"
+    ],
+    {
+      "time": "3.066352 h",
+      "frac": 0.39486749
+    }
+  ],
+  [
+    [
+      "166",
+      "Tiziano Trambaioli"
+    ],
+    {
+      "time": "3.069824 h",
+      "frac": 0.39292562
+    }
+  ],
+  [
+    [
+      "101",
+      "Diego Ardissone"
+    ],
+    {
+      "time": "3.081431 h",
+      "frac": 0.38645801
+    }
+  ],
+  [
+    [
+      "162",
+      "Arkadiusz Slusarczyk"
+    ],
+    {
+      "time": "3.110938 h",
+      "frac": 0.37016761
+    }
+  ],
+  [
+    [
+      "151",
+      "Piergiorgio Pintossi"
+    ],
+    {
+      "time": "3.117076 h",
+      "frac": 0.36680533
+    }
+  ],
+  [
+    [
+      "169",
+      "Alessandro Vallero"
+    ],
+    {
+      "time": "3.325089 h",
+      "frac": 0.25759334
+    }
+  ],
+  [
+    [
+      "129",
+      "Luciano Gallo"
+    ],
+    {
+      "time": "3.478403 h",
+      "frac": 0.18202812
+    }
+  ],
+  [
+    [
+      "130",
+      "Andrea Garolla"
+    ],
+    {
+      "time": "3.779394 h",
+      "frac": 0.04291397
+    }
+  ],
+  [
+    [
+      "143",
+      "Valerio Marchetti"
+    ],
+    {
+      "time": "4.103689 h",
+      "frac": 0
+    }
+  ],
+  [
+    [
+      "136",
+      "Gbriel-Alexandru Ivan"
+    ],
+    {
+      "time": "4.117816 h",
+      "frac": 0
+    }
+  ]
+]

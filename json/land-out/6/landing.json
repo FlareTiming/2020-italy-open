@@ -1,0 +1,243 @@
+{
+  "chunking": {
+    "endChunk": [
+      631,
+      "63.1 km"
+    ],
+    "startChunk": [
+      0,
+      "0.0 km"
+    ],
+    "sumOf": 1846
+  },
+  "bestDistance": "62.543034 km",
+  "difficulty": [
+    {
+      "endChunk": "10.4 km",
+      "down": 1,
+      "chunk": 103,
+      "startChunk": "10.3 km",
+      "frac": 0.04907227,
+      "downers": [
+        [
+          "110",
+          "Klaudia Bulgakow"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.00054171,
+      "endAhead": "23.8 km",
+      "downs": [
+        "10.319 km"
+      ]
+    },
+    {
+      "endChunk": "16.1 km",
+      "down": 1,
+      "chunk": 160,
+      "startChunk": "16.0 km",
+      "frac": 0.06445312,
+      "downers": [
+        [
+          "149",
+          "Alessandro Palma"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00027086,
+      "endAhead": "29.5 km",
+      "downs": [
+        "16.052 km"
+      ]
+    },
+    {
+      "endChunk": "41.6 km",
+      "down": 1,
+      "chunk": 415,
+      "startChunk": "41.5 km",
+      "frac": 0.39135742,
+      "downers": [
+        [
+          "140",
+          "Maurizio Maina"
+        ]
+      ],
+      "downward": 12,
+      "rel": 0.00325027,
+      "endAhead": "55.0 km",
+      "downs": [
+        "41.513 km"
+      ]
+    },
+    {
+      "endChunk": "42.4 km",
+      "down": 2,
+      "chunk": 423,
+      "startChunk": "42.3 km",
+      "frac": 0.4152832,
+      "downers": [
+        [
+          "125",
+          "Grzegorz Fiema"
+        ],
+        [
+          "102",
+          "Matteo Bacchiocchi"
+        ]
+      ],
+      "downward": 11,
+      "rel": 0.00297941,
+      "endAhead": "55.8 km",
+      "downs": [
+        "42.365 km",
+        "42.392 km"
+      ]
+    },
+    {
+      "endChunk": "42.9 km",
+      "down": 1,
+      "chunk": 428,
+      "startChunk": "42.8 km",
+      "frac": 0.42749023,
+      "downers": [
+        [
+          "147",
+          "Francesco Orcese"
+        ]
+      ],
+      "downward": 9,
+      "rel": 0.0024377,
+      "endAhead": "56.3 km",
+      "downs": [
+        "42.835 km"
+      ]
+    },
+    {
+      "endChunk": "44.1 km",
+      "down": 1,
+      "chunk": 440,
+      "startChunk": "44.0 km",
+      "frac": 0.45336914,
+      "downers": [
+        [
+          "127",
+          "Richárd Gabrieli"
+        ]
+      ],
+      "downward": 8,
+      "rel": 0.00216685,
+      "endAhead": "57.5 km",
+      "downs": [
+        "44.065 km"
+      ]
+    },
+    {
+      "endChunk": "44.7 km",
+      "down": 1,
+      "chunk": 446,
+      "startChunk": "44.6 km",
+      "frac": 0.46484375,
+      "downers": [
+        [
+          "117",
+          "Gianfranco Crestani"
+        ]
+      ],
+      "downward": 7,
+      "rel": 0.00189599,
+      "endAhead": "58.1 km",
+      "downs": [
+        "44.690 km"
+      ]
+    },
+    {
+      "endChunk": "45.4 km",
+      "down": 2,
+      "chunk": 453,
+      "startChunk": "45.3 km",
+      "frac": 0.47607422,
+      "downers": [
+        [
+          "158",
+          "Antonio Ruta"
+        ],
+        [
+          "121",
+          "Giorgio Darra"
+        ]
+      ],
+      "downward": 6,
+      "rel": 0.00162514,
+      "endAhead": "58.8 km",
+      "downs": [
+        "45.333 km",
+        "45.353 km"
+      ]
+    },
+    {
+      "endChunk": "45.7 km",
+      "down": 2,
+      "chunk": 456,
+      "startChunk": "45.6 km",
+      "frac": 0.47949219,
+      "downers": [
+        [
+          "122",
+          "Angelo Dell’Aira"
+        ],
+        [
+          "119",
+          "Maria Antonietta D'Angela"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.00108342,
+      "endAhead": "59.1 km",
+      "downs": [
+        "45.609 km",
+        "45.641 km"
+      ]
+    },
+    {
+      "endChunk": "47.7 km",
+      "down": 1,
+      "chunk": 476,
+      "startChunk": "47.6 km",
+      "frac": 0.49023438,
+      "downers": [
+        [
+          "133",
+          "Alessio Guidi"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.00054171,
+      "endAhead": "61.1 km",
+      "downs": [
+        "47.644 km"
+      ]
+    },
+    {
+      "endChunk": "51.3 km",
+      "down": 1,
+      "chunk": 512,
+      "startChunk": "51.2 km",
+      "frac": 0.5,
+      "downers": [
+        [
+          "167",
+          "Ionut Ulici"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00027086,
+      "endAhead": "64.7 km",
+      "downs": [
+        "51.206 km"
+      ]
+    }
+  ],
+  "lookahead": 134,
+  "minDistance": "5.000 km",
+  "landout": 14
+}

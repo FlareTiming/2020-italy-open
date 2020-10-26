@@ -1,0 +1,2738 @@
+[
+  [
+    [
+      "138",
+      "Marco Littamè"
+    ],
+    {
+      "timeElapsed": "2.930833 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 443.2,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 155.6,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:25:51Z",
+      "total": 995,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "1",
+      "fractions": {
+        "time": 0.97320329,
+        "reach": 1,
+        "distance": 1,
+        "leading": 1,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "146",
+      "Joachim Oberhauser"
+    ],
+    {
+      "timeElapsed": "2.926944 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 445.4,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 143.1,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:25:37Z",
+      "total": 985,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "2",
+      "fractions": {
+        "time": 0.98353856,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.91966581,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "171",
+      "Biagio Alberto Vitale"
+    ],
+    {
+      "timeElapsed": "2.924167 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 447.3,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 138.2,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:25:27Z",
+      "total": 982,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "3",
+      "fractions": {
+        "time": 0.99380673,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.88817481,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "145",
+      "Federico Nevastro"
+    ],
+    {
+      "timeElapsed": "2.923333 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 448,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 135.4,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:25:24Z",
+      "total": 980,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "4",
+      "fractions": {
+        "time": 1,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.87017995,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "106",
+      "Christian Biasi"
+    ],
+    {
+      "timeElapsed": "2.923889 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 447.5,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 135.5,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:25:26Z",
+      "total": 979,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "5",
+      "fractions": {
+        "time": 0.99527365,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.87082262,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "159",
+      "Krzysztof Schmidt"
+    ],
+    {
+      "timeElapsed": "2.979167 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 422.2,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 139.7,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:28:45Z",
+      "total": 958,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "6",
+      "fractions": {
+        "time": 0.89783482,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.89781491,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "180",
+      "Michal Gierlach"
+    ],
+    {
+      "timeElapsed": "2.975000 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 423.8,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 136.9,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:28:30Z",
+      "total": 957,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "7",
+      "fractions": {
+        "time": 0.90298307,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.87982005,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "108",
+      "Michele Boschi"
+    ],
+    {
+      "timeElapsed": "2.975556 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 423.6,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 135.7,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:28:32Z",
+      "total": 956,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "10",
+      "fractions": {
+        "time": 0.90228885,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.87210797,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "166",
+      "Tiziano Trambaioli"
+    ],
+    {
+      "timeElapsed": "2.988333 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 418.7,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 141.1,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:29:18Z",
+      "total": 956,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "9",
+      "fractions": {
+        "time": 0.88693814,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.90681234,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "115",
+      "Alberto Castagna"
+    ],
+    {
+      "timeElapsed": "2.992222 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 417.2,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 142.9,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:29:32Z",
+      "total": 956,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "8",
+      "fractions": {
+        "time": 0.88247236,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.91838046,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "153",
+      "Gianbasilio Profiti"
+    ],
+    {
+      "timeElapsed": "2.997222 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 415.4,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 141.9,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:29:50Z",
+      "total": 954,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "12",
+      "fractions": {
+        "time": 0.8768522,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.91195373,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "132",
+      "Jacek Górski"
+    ],
+    {
+      "timeElapsed": "2.991944 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 417.3,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 140.2,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:29:31Z",
+      "total": 954,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "11",
+      "fractions": {
+        "time": 0.88278851,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.90102828,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "137",
+      "Slawomir Kaczynski"
+    ],
+    {
+      "timeElapsed": "2.980000 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 421.8,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 131.5,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:28:48Z",
+      "total": 950,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "15",
+      "fractions": {
+        "time": 0.89682076,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.84511568,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "109",
+      "Federico Brown Manzone"
+    ],
+    {
+      "timeElapsed": "2.982500 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 420.9,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 132.6,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:28:57Z",
+      "total": 950,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "14",
+      "fractions": {
+        "time": 0.89380796,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.85218509,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "168",
+      "Marco Valentini"
+    ],
+    {
+      "timeElapsed": "2.986667 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 419.3,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 134.6,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:29:12Z",
+      "total": 950,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "13",
+      "fractions": {
+        "time": 0.88887918,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.86503856,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "104",
+      "Loris Berta"
+    ],
+    {
+      "timeElapsed": "2.999722 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 414.4,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 138.1,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:29:59Z",
+      "total": 949,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "17",
+      "fractions": {
+        "time": 0.87408987,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.88753213,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "124",
+      "Paolo Facchini"
+    ],
+    {
+      "timeElapsed": "2.984444 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 420.1,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 132.5,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:29:04Z",
+      "total": 949,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "16",
+      "fractions": {
+        "time": 0.89149394,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.85154242,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "155",
+      "Alfio Ragaglia"
+    ],
+    {
+      "timeElapsed": "2.994444 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 416.4,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 134.4,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:29:40Z",
+      "total": 947,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "18",
+      "fractions": {
+        "time": 0.87995828,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.86375321,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "161",
+      "Matteo Siragna"
+    ],
+    {
+      "timeElapsed": "2.992500 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 417.1,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 130.6,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:29:33Z",
+      "total": 944,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "19",
+      "fractions": {
+        "time": 0.88215664,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.83933162,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "117",
+      "Gianfranco Crestani"
+    ],
+    {
+      "timeElapsed": "3.030278 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 403.6,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 133.9,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:31:49Z",
+      "total": 934,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "20",
+      "fractions": {
+        "time": 0.84242788,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.86053985,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "112",
+      "Silvia Buzzi Ferraris"
+    ],
+    {
+      "timeElapsed": "3.027222 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 404.6,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 132.2,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:31:38Z",
+      "total": 933,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "22",
+      "fractions": {
+        "time": 0.84544373,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.8496144,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "179",
+      "Charles Henrique Guimaraes Moura"
+    ],
+    {
+      "timeElapsed": "3.027222 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 404.6,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 132.3,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:31:38Z",
+      "total": 933,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "21",
+      "fractions": {
+        "time": 0.84544373,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.85025707,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "154",
+      "Stefano Pucci"
+    ],
+    {
+      "timeElapsed": "3.029722 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 403.8,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 129.4,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:31:47Z",
+      "total": 930,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "24",
+      "fractions": {
+        "time": 0.84297406,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.83161954,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "130",
+      "Andrea Garolla"
+    ],
+    {
+      "timeElapsed": "3.039722 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 400.3,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 133.3,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:32:23Z",
+      "total": 930,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "23",
+      "fractions": {
+        "time": 0.83328235,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.8566838,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "126",
+      "Alessandro Fuzzi"
+    ],
+    {
+      "timeElapsed": "3.040278 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 400.1,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 128.5,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:32:25Z",
+      "total": 925,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "26",
+      "fractions": {
+        "time": 0.83275225,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.82583548,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "129",
+      "Luciano Gallo"
+    ],
+    {
+      "timeElapsed": "3.028056 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 404.3,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 124.4,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:31:41Z",
+      "total": 925,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "25",
+      "fractions": {
+        "time": 0.84461833,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.79948586,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "150",
+      "Luca Paoletti"
+    ],
+    {
+      "timeElapsed": "3.032222 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 402.9,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 124.7,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:31:56Z",
+      "total": 924,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "27",
+      "fractions": {
+        "time": 0.84052366,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.80141388,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "157",
+      "Elio Rossi"
+    ],
+    {
+      "timeElapsed": "3.001667 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 413.7,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 113.3,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:30:06Z",
+      "total": 923,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "28",
+      "fractions": {
+        "time": 0.87196217,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.7281491,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "151",
+      "Piergiorgio Pintossi"
+    ],
+    {
+      "timeElapsed": "3.066667 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 391.3,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 134.5,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:34:00Z",
+      "total": 922,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "30",
+      "fractions": {
+        "time": 0.80845447,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.86439589,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "169",
+      "Alessandro Vallero"
+    ],
+    {
+      "timeElapsed": "3.048889 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 397.2,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 128.9,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:32:56Z",
+      "total": 922,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "29",
+      "fractions": {
+        "time": 0.82463974,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.82840617,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "121",
+      "Giorgio Darra"
+    ],
+    {
+      "timeElapsed": "3.123889 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 372.9,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 149.9,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:37:26Z",
+      "total": 919,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "32",
+      "fractions": {
+        "time": 0.76037598,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.96336761,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "148",
+      "Luciano Pagnoni"
+    ],
+    {
+      "timeElapsed": "3.032500 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 402.8,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 120.2,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:31:57Z",
+      "total": 919,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "31",
+      "fractions": {
+        "time": 0.84025256,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.77249357,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "105",
+      "Daniele Bevilacqua"
+    ],
+    {
+      "timeElapsed": "3.056667 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 394.6,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 125.2,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:33:24Z",
+      "total": 916,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "33",
+      "fractions": {
+        "time": 0.81747051,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.80462725,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "116",
+      "Ivan Centa"
+    ],
+    {
+      "timeElapsed": "3.084722 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 385.4,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 133.6,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:35:05Z",
+      "total": 915,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "34",
+      "fractions": {
+        "time": 0.7926887,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.85861183,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "141",
+      "Albino Malli"
+    ],
+    {
+      "timeElapsed": "3.095556 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 381.9,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 135.7,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:35:44Z",
+      "total": 914,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "35",
+      "fractions": {
+        "time": 0.78351224,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.87210797,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "158",
+      "Antonio Ruta"
+    ],
+    {
+      "timeElapsed": "3.072778 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 389.3,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 124.8,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:34:22Z",
+      "total": 910,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "36",
+      "fractions": {
+        "time": 0.803048,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.80205656,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "177",
+      "Bogdan Bialka"
+    ],
+    {
+      "timeElapsed": "3.133333 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 370,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 141.8,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:38:00Z",
+      "total": 908,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "37",
+      "fractions": {
+        "time": 0.752911,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.91131105,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "174",
+      "Davide Zaltron"
+    ],
+    {
+      "timeElapsed": "3.133056 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 370.1,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 127.4,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:37:59Z",
+      "total": 894,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "39",
+      "fractions": {
+        "time": 0.75312894,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.81876607,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "156",
+      "Massimo Rapari"
+    ],
+    {
+      "timeElapsed": "3.102222 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 379.8,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 117.8,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:36:08Z",
+      "total": 894,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "38",
+      "fractions": {
+        "time": 0.7779609,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.75706941,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "113",
+      "Tommaso Carlini"
+    ],
+    {
+      "timeElapsed": "3.138333 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 368.4,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 128,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:38:18Z",
+      "total": 893,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "40",
+      "fractions": {
+        "time": 0.74900435,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.82262211,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "164",
+      "Anca Tabara"
+    ],
+    {
+      "timeElapsed": "3.317222 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 316.2,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 114,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T14:49:02Z",
+      "total": 827,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "41",
+      "fractions": {
+        "time": 0.62420035,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.73264781,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "120",
+      "Gabriele D'Arrigo"
+    ],
+    {
+      "timeElapsed": "3.654444 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 227.3,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 111.3,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T15:09:16Z",
+      "total": 735,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "42",
+      "fractions": {
+        "time": 0.43241687,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.71529563,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "101",
+      "Diego Ardissone"
+    ],
+    {
+      "timeElapsed": "3.662778 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 225.2,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 79,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T15:09:46Z",
+      "total": 701,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "43",
+      "fractions": {
+        "time": 0.42811208,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.50771208,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "160",
+      "Giuseppe Simone"
+    ],
+    {
+      "timeElapsed": "3.797778 h",
+      "reach": {
+        "extra": "75.669000 km",
+        "flown": "75.669000 km"
+      },
+      "breakdown": {
+        "time": 191.8,
+        "reach": 396.3,
+        "distance": 396.3,
+        "leading": 61.4,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2020-08-05T15:17:52Z",
+      "total": 650,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "44",
+      "fractions": {
+        "time": 0.36046836,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.39460154,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "172",
+      "Alessio Voltan"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "69.560000 km",
+        "flown": "69.560000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 364.3,
+        "distance": 364.3,
+        "leading": 133.1,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 497,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "45",
+      "fractions": {
+        "time": 0,
+        "reach": 0.91925309,
+        "distance": 0.91925309,
+        "leading": 0.85539846,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "165",
+      "Andrea Terenziani"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "71.584000 km",
+        "flown": "71.584000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 374.9,
+        "distance": 374.9,
+        "leading": 112.6,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 488,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "46",
+      "fractions": {
+        "time": 0,
+        "reach": 0.9460005,
+        "distance": 0.9460005,
+        "leading": 0.72365039,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "133",
+      "Alessio Guidi"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "58.085000 km",
+        "flown": "58.085000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 304.2,
+        "distance": 304.2,
+        "leading": 19.5,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 324,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "47",
+      "fractions": {
+        "time": 0,
+        "reach": 0.7676003,
+        "distance": 0.7676003,
+        "leading": 0.12532134,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "125",
+      "Grzegorz Fiema"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "57.696000 km",
+        "flown": "57.696000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 302.2,
+        "distance": 302.2,
+        "leading": 13.6,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 316,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "48",
+      "fractions": {
+        "time": 0,
+        "reach": 0.76255362,
+        "distance": 0.76255362,
+        "leading": 0.0874036,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "142",
+      "Luca Mammucari"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "56.101000 km",
+        "flown": "56.101000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 293.8,
+        "distance": 293.8,
+        "leading": 17.6,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 311,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "49",
+      "fractions": {
+        "time": 0,
+        "reach": 0.74135756,
+        "distance": 0.74135756,
+        "leading": 0.11311054,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "176",
+      "Francesco Fontanesi"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "57.287000 km",
+        "flown": "57.287000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 300,
+        "distance": 300,
+        "leading": 10.1,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 310,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "50",
+      "fractions": {
+        "time": 0,
+        "reach": 0.75700227,
+        "distance": 0.75700227,
+        "leading": 0.06491003,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "127",
+      "Richárd Gabrieli"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "57.539000 km",
+        "flown": "57.539000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 301.4,
+        "distance": 301.4,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 301,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "51",
+      "fractions": {
+        "time": 0,
+        "reach": 0.76053495,
+        "distance": 0.76053495,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "147",
+      "Francesco Orcese"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "56.211000 km",
+        "flown": "56.211000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 294.4,
+        "distance": 294.4,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 294,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "52",
+      "fractions": {
+        "time": 0,
+        "reach": 0.74287156,
+        "distance": 0.74287156,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "139",
+      "Alessandro Madaluni"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "55.612000 km",
+        "flown": "55.612000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 291.3,
+        "distance": 291.3,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 291,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "53",
+      "fractions": {
+        "time": 0,
+        "reach": 0.73504921,
+        "distance": 0.73504921,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "140",
+      "Maurizio Maina"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "54.040000 km",
+        "flown": "54.040000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 283,
+        "distance": 283,
+        "leading": 6.3,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 289,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "54",
+      "fractions": {
+        "time": 0,
+        "reach": 0.71410548,
+        "distance": 0.71410548,
+        "leading": 0.04048843,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "149",
+      "Alessandro Palma"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "54.011000 km",
+        "flown": "54.011000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 282.9,
+        "distance": 282.9,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 283,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "55",
+      "fractions": {
+        "time": 0,
+        "reach": 0.71385314,
+        "distance": 0.71385314,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "144",
+      "Riccardo Marchetto"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "51.492000 km",
+        "flown": "51.492000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 269.7,
+        "distance": 269.7,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 270,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "56",
+      "fractions": {
+        "time": 0,
+        "reach": 0.68054504,
+        "distance": 0.68054504,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "136",
+      "Gbriel-Alexandru Ivan"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "50.998000 km",
+        "flown": "50.998000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 267.1,
+        "distance": 267.1,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 267,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "57",
+      "fractions": {
+        "time": 0,
+        "reach": 0.67398436,
+        "distance": 0.67398436,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "122",
+      "Angelo Dell’Aira"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "49.371000 km",
+        "flown": "49.371000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 258.6,
+        "distance": 258.6,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 259,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "58",
+      "fractions": {
+        "time": 0,
+        "reach": 0.65253596,
+        "distance": 0.65253596,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "167",
+      "Ionut Ulici"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "49.300000 km",
+        "flown": "49.300000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 258.2,
+        "distance": 258.2,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 258,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "61",
+      "fractions": {
+        "time": 0,
+        "reach": 0.65152662,
+        "distance": 0.65152662,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "162",
+      "Arkadiusz Slusarczyk"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "49.312000 km",
+        "flown": "49.312000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 258.3,
+        "distance": 258.3,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 258,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "60",
+      "fractions": {
+        "time": 0,
+        "reach": 0.65177896,
+        "distance": 0.65177896,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "102",
+      "Matteo Bacchiocchi"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "49.334000 km",
+        "flown": "49.334000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 258.4,
+        "distance": 258.4,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 258,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "59",
+      "fractions": {
+        "time": 0,
+        "reach": 0.65203129,
+        "distance": 0.65203129,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "107",
+      "Gabriele Bonafini"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "46.285000 km",
+        "flown": "46.285000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 242.4,
+        "distance": 242.4,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 242,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "62",
+      "fractions": {
+        "time": 0,
+        "reach": 0.61165783,
+        "distance": 0.61165783,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "119",
+      "Maria Antonietta D'Angela"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "44.390000 km",
+        "flown": "44.390000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 232.5,
+        "distance": 232.5,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 232,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "63",
+      "fractions": {
+        "time": 0,
+        "reach": 0.58667676,
+        "distance": 0.58667676,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "111",
+      "Marco Busetta"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "44.026000 km",
+        "flown": "44.026000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 230.6,
+        "distance": 230.6,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 231,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "64",
+      "fractions": {
+        "time": 0,
+        "reach": 0.58188241,
+        "distance": 0.58188241,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "173",
+      "Paolo Zammarchi"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "43.995000 km",
+        "flown": "43.995000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 230.4,
+        "distance": 230.4,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 230,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "65",
+      "fractions": {
+        "time": 0,
+        "reach": 0.58137774,
+        "distance": 0.58137774,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "110",
+      "Klaudia Bulgakow"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "43.454000 km",
+        "flown": "43.454000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 227.6,
+        "distance": 227.6,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 228,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "66",
+      "fractions": {
+        "time": 0,
+        "reach": 0.57431239,
+        "distance": 0.57431239,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "170",
+      "Paolo Veratti"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "42.919000 km",
+        "flown": "42.919000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 224.8,
+        "distance": 224.8,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 225,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "68",
+      "fractions": {
+        "time": 0,
+        "reach": 0.56724704,
+        "distance": 0.56724704,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "143",
+      "Valerio Marchetti"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "43.012000 km",
+        "flown": "43.012000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 225.3,
+        "distance": 225.3,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 225,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "67",
+      "fractions": {
+        "time": 0,
+        "reach": 0.56850871,
+        "distance": 0.56850871,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "131",
+      "Marco Gentilini"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "41.712000 km",
+        "flown": "41.712000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 218.5,
+        "distance": 218.5,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 218,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "69",
+      "fractions": {
+        "time": 0,
+        "reach": 0.55134999,
+        "distance": 0.55134999,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "118",
+      "Igor D'Agostino"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "41.434000 km",
+        "flown": "41.434000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 217,
+        "distance": 217,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 217,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "70",
+      "fractions": {
+        "time": 0,
+        "reach": 0.54756498,
+        "distance": 0.54756498,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "135",
+      "Cristian Inverardi"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "26.412000 km",
+        "flown": "26.412000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 138.3,
+        "distance": 138.3,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 138,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "71",
+      "fractions": {
+        "time": 0,
+        "reach": 0.34897805,
+        "distance": 0.34897805,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "114",
+      "Mirco Casarini"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "0.543000 km",
+        "flown": "0.543000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 26.2,
+        "distance": 26.2,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 26,
+      "ss": "2012-01-05T01:00:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "75",
+      "fractions": {
+        "time": 0,
+        "reach": 0.06611153,
+        "distance": 0.06611153,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "128",
+      "Michele Gaiba"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "0.543000 km",
+        "flown": "0.543000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 26.2,
+        "distance": 26.2,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 26,
+      "ss": "2012-01-05T01:00:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "74",
+      "fractions": {
+        "time": 0,
+        "reach": 0.06611153,
+        "distance": 0.06611153,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "178",
+      "Marius Saigiu"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "0.543000 km",
+        "flown": "0.543000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 26.2,
+        "distance": 26.2,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 26,
+      "ss": "2012-01-05T01:00:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "73",
+      "fractions": {
+        "time": 0,
+        "reach": 0.06611153,
+        "distance": 0.06611153,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "175",
+      "Mariusz Wisniowski"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "0.543000 km",
+        "flown": "0.543000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 26.2,
+        "distance": 26.2,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 26,
+      "ss": "2012-01-05T01:00:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "72",
+      "fractions": {
+        "time": 0,
+        "reach": 0.06611153,
+        "distance": 0.06611153,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "123",
+      "Sergio Di Fazio"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "46.966000 km",
+        "flown": "46.966000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 246,
+        "distance": 246,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": "2012-01-05T01:00:00Z",
+      "total": 0,
+      "ss": "2020-08-05T11:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "76",
+      "fractions": {
+        "time": 0,
+        "reach": 0.62074186,
+        "distance": 0.62074186,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ]
+]

@@ -1,0 +1,22 @@
+{
+  "civilId": "",
+  "earthMath": "Haversines",
+  "discipline": "pg",
+  "location": "Santa Elisabetta",
+  "to": "2020-08-08",
+  "compName": "Italian Open 2020",
+  "from": "2020-08-01",
+  "utcOffset": {
+    "timeZoneMinutes": 120
+  },
+  "earth": {
+    "sphere": {
+      "radius": "6371000.0 m"
+    }
+  },
+  "give": {
+    "giveDistance": null,
+    "giveFraction": 0.005
+  },
+  "scoreBack": "300.000 s"
+}

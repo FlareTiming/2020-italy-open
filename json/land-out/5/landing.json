@@ -1,0 +1,686 @@
+{
+  "chunking": {
+    "endChunk": [
+      881,
+      "88.1 km"
+    ],
+    "startChunk": [
+      0,
+      "0.0 km"
+    ],
+    "sumOf": 2624
+  },
+  "bestDistance": "87.546415 km",
+  "difficulty": [
+    {
+      "endChunk": "6.4 km",
+      "down": 3,
+      "chunk": 63,
+      "startChunk": "6.3 km",
+      "frac": 0.05957031,
+      "downers": [
+        [
+          "119",
+          "Maria Antonietta D'Angela"
+        ],
+        [
+          "176",
+          "Francesco Fontanesi"
+        ],
+        [
+          "131",
+          "Marco Gentilini"
+        ]
+      ],
+      "downward": 5,
+      "rel": 0.00095274,
+      "endAhead": "12.8 km",
+      "downs": [
+        "6.313 km",
+        "6.322 km",
+        "6.322 km"
+      ]
+    },
+    {
+      "endChunk": "6.8 km",
+      "down": 2,
+      "chunk": 67,
+      "startChunk": "6.7 km",
+      "frac": 0.06103516,
+      "downers": [
+        [
+          "123",
+          "Sergio Di Fazio"
+        ],
+        [
+          "174",
+          "Davide Zaltron"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.0003811,
+      "endAhead": "13.2 km",
+      "downs": [
+        "6.735 km",
+        "6.751 km"
+      ]
+    },
+    {
+      "endChunk": "13.8 km",
+      "down": 2,
+      "chunk": 137,
+      "startChunk": "13.7 km",
+      "frac": 0.09570312,
+      "downers": [
+        [
+          "118",
+          "Igor D'Agostino"
+        ],
+        [
+          "156",
+          "Massimo Rapari"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00057165,
+      "endAhead": "20.2 km",
+      "downs": [
+        "13.728 km",
+        "13.743 km"
+      ]
+    },
+    {
+      "endChunk": "14.8 km",
+      "down": 1,
+      "chunk": 147,
+      "startChunk": "14.7 km",
+      "frac": 0.09765625,
+      "downers": [
+        [
+          "149",
+          "Alessandro Palma"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00019055,
+      "endAhead": "21.2 km",
+      "downs": [
+        "14.731 km"
+      ]
+    },
+    {
+      "endChunk": "24.2 km",
+      "down": 1,
+      "chunk": 241,
+      "startChunk": "24.1 km",
+      "frac": 0.14135742,
+      "downers": [
+        [
+          "148",
+          "Luciano Pagnoni"
+        ]
+      ],
+      "downward": 5,
+      "rel": 0.00095274,
+      "endAhead": "30.6 km",
+      "downs": [
+        "24.187 km"
+      ]
+    },
+    {
+      "endChunk": "24.8 km",
+      "down": 1,
+      "chunk": 247,
+      "startChunk": "24.7 km",
+      "frac": 0.14599609,
+      "downers": [
+        [
+          "135",
+          "Cristian Inverardi"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.0007622,
+      "endAhead": "31.2 km",
+      "downs": [
+        "24.732 km"
+      ]
+    },
+    {
+      "endChunk": "26.0 km",
+      "down": 1,
+      "chunk": 259,
+      "startChunk": "25.9 km",
+      "frac": 0.15283203,
+      "downers": [
+        [
+          "130",
+          "Andrea Garolla"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00057165,
+      "endAhead": "32.4 km",
+      "downs": [
+        "25.953 km"
+      ]
+    },
+    {
+      "endChunk": "26.9 km",
+      "down": 1,
+      "chunk": 268,
+      "startChunk": "26.8 km",
+      "frac": 0.15625,
+      "downers": [
+        [
+          "102",
+          "Matteo Bacchiocchi"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.0003811,
+      "endAhead": "33.3 km",
+      "downs": [
+        "26.854 km"
+      ]
+    },
+    {
+      "endChunk": "28.1 km",
+      "down": 1,
+      "chunk": 280,
+      "startChunk": "28.0 km",
+      "frac": 0.15844727,
+      "downers": [
+        [
+          "161",
+          "Matteo Siragna"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00019055,
+      "endAhead": "34.5 km",
+      "downs": [
+        "28.018 km"
+      ]
+    },
+    {
+      "endChunk": "36.6 km",
+      "down": 1,
+      "chunk": 365,
+      "startChunk": "36.5 km",
+      "frac": 0.1953125,
+      "downers": [
+        [
+          "151",
+          "Piergiorgio Pintossi"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.0007622,
+      "endAhead": "43.0 km",
+      "downs": [
+        "36.524 km"
+      ]
+    },
+    {
+      "endChunk": "36.7 km",
+      "down": 1,
+      "chunk": 366,
+      "startChunk": "36.6 km",
+      "frac": 0.19580078,
+      "downers": [
+        [
+          "136",
+          "Gbriel-Alexandru Ivan"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00057165,
+      "endAhead": "43.1 km",
+      "downs": [
+        "36.644 km"
+      ]
+    },
+    {
+      "endChunk": "37.3 km",
+      "down": 1,
+      "chunk": 372,
+      "startChunk": "37.2 km",
+      "frac": 0.19824219,
+      "downers": [
+        [
+          "167",
+          "Ionut Ulici"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.0003811,
+      "endAhead": "43.7 km",
+      "downs": [
+        "37.255 km"
+      ]
+    },
+    {
+      "endChunk": "42.1 km",
+      "down": 1,
+      "chunk": 420,
+      "startChunk": "42.0 km",
+      "frac": 0.20727539,
+      "downers": [
+        [
+          "107",
+          "Gabriele Bonafini"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00019055,
+      "endAhead": "48.5 km",
+      "downs": [
+        "42.023 km"
+      ]
+    },
+    {
+      "endChunk": "49.1 km",
+      "down": 1,
+      "chunk": 490,
+      "startChunk": "49.0 km",
+      "frac": 0.22973633,
+      "downers": [
+        [
+          "132",
+          "Jacek Górski"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.0003811,
+      "endAhead": "55.5 km",
+      "downs": [
+        "49.010 km"
+      ]
+    },
+    {
+      "endChunk": "50.1 km",
+      "down": 1,
+      "chunk": 500,
+      "startChunk": "50.0 km",
+      "frac": 0.23168945,
+      "downers": [
+        [
+          "162",
+          "Arkadiusz Slusarczyk"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00019055,
+      "endAhead": "56.5 km",
+      "downs": [
+        "50.080 km"
+      ]
+    },
+    {
+      "endChunk": "67.8 km",
+      "down": 1,
+      "chunk": 677,
+      "startChunk": "67.7 km",
+      "frac": 0.31323242,
+      "downers": [
+        [
+          "109",
+          "Federico Brown Manzone"
+        ]
+      ],
+      "downward": 9,
+      "rel": 0.00171494,
+      "endAhead": "74.2 km",
+      "downs": [
+        "67.716 km"
+      ]
+    },
+    {
+      "endChunk": "67.9 km",
+      "down": 1,
+      "chunk": 678,
+      "startChunk": "67.8 km",
+      "frac": 0.31469727,
+      "downers": [
+        [
+          "165",
+          "Andrea Terenziani"
+        ]
+      ],
+      "downward": 8,
+      "rel": 0.00152439,
+      "endAhead": "74.3 km",
+      "downs": [
+        "67.886 km"
+      ]
+    },
+    {
+      "endChunk": "68.0 km",
+      "down": 1,
+      "chunk": 679,
+      "startChunk": "67.9 km",
+      "frac": 0.31665039,
+      "downers": [
+        [
+          "139",
+          "Alessandro Madaluni"
+        ]
+      ],
+      "downward": 10,
+      "rel": 0.00190549,
+      "endAhead": "74.4 km",
+      "downs": [
+        "67.906 km"
+      ]
+    },
+    {
+      "endChunk": "68.5 km",
+      "down": 2,
+      "chunk": 684,
+      "startChunk": "68.4 km",
+      "frac": 0.32592773,
+      "downers": [
+        [
+          "143",
+          "Valerio Marchetti"
+        ],
+        [
+          "152",
+          "Alessandro Pompei"
+        ]
+      ],
+      "downward": 11,
+      "rel": 0.00209604,
+      "endAhead": "74.9 km",
+      "downs": [
+        "68.447 km",
+        "68.459 km"
+      ]
+    },
+    {
+      "endChunk": "69.7 km",
+      "down": 1,
+      "chunk": 696,
+      "startChunk": "69.6 km",
+      "frac": 0.34667969,
+      "downers": [
+        [
+          "160",
+          "Giuseppe Simone"
+        ]
+      ],
+      "downward": 9,
+      "rel": 0.00171494,
+      "endAhead": "76.1 km",
+      "downs": [
+        "69.635 km"
+      ]
+    },
+    {
+      "endChunk": "71.2 km",
+      "down": 1,
+      "chunk": 711,
+      "startChunk": "71.1 km",
+      "frac": 0.37158203,
+      "downers": [
+        [
+          "125",
+          "Grzegorz Fiema"
+        ]
+      ],
+      "downward": 10,
+      "rel": 0.00190549,
+      "endAhead": "77.6 km",
+      "downs": [
+        "71.192 km"
+      ]
+    },
+    {
+      "endChunk": "71.7 km",
+      "down": 2,
+      "chunk": 716,
+      "startChunk": "71.6 km",
+      "frac": 0.38012695,
+      "downers": [
+        [
+          "178",
+          "Marius Saigiu"
+        ],
+        [
+          "150",
+          "Luca Paoletti"
+        ]
+      ],
+      "downward": 9,
+      "rel": 0.00171494,
+      "endAhead": "78.1 km",
+      "downs": [
+        "71.624 km",
+        "71.660 km"
+      ]
+    },
+    {
+      "endChunk": "74.3 km",
+      "down": 3,
+      "chunk": 742,
+      "startChunk": "74.2 km",
+      "frac": 0.42236328,
+      "downers": [
+        [
+          "144",
+          "Riccardo Marchetto"
+        ],
+        [
+          "113",
+          "Tommaso Carlini"
+        ],
+        [
+          "110",
+          "Klaudia Bulgakow"
+        ]
+      ],
+      "downward": 11,
+      "rel": 0.00209604,
+      "endAhead": "80.7 km",
+      "downs": [
+        "74.211 km",
+        "74.221 km",
+        "74.223 km"
+      ]
+    },
+    {
+      "endChunk": "74.6 km",
+      "down": 1,
+      "chunk": 745,
+      "startChunk": "74.5 km",
+      "frac": 0.42700195,
+      "downers": [
+        [
+          "120",
+          "Gabriele D'Arrigo"
+        ]
+      ],
+      "downward": 8,
+      "rel": 0.00152439,
+      "endAhead": "81.0 km",
+      "downs": [
+        "74.524 km"
+      ]
+    },
+    {
+      "endChunk": "74.8 km",
+      "down": 1,
+      "chunk": 747,
+      "startChunk": "74.7 km",
+      "frac": 0.4296875,
+      "downers": [
+        [
+          "142",
+          "Luca Mammucari"
+        ]
+      ],
+      "downward": 7,
+      "rel": 0.00133384,
+      "endAhead": "81.2 km",
+      "downs": [
+        "74.709 km"
+      ]
+    },
+    {
+      "endChunk": "76.8 km",
+      "down": 1,
+      "chunk": 767,
+      "startChunk": "76.7 km",
+      "frac": 0.45263672,
+      "downers": [
+        [
+          "117",
+          "Gianfranco Crestani"
+        ]
+      ],
+      "downward": 6,
+      "rel": 0.00114329,
+      "endAhead": "83.2 km",
+      "downs": [
+        "76.749 km"
+      ]
+    },
+    {
+      "endChunk": "77.3 km",
+      "down": 1,
+      "chunk": 772,
+      "startChunk": "77.2 km",
+      "frac": 0.45751953,
+      "downers": [
+        [
+          "141",
+          "Albino Malli"
+        ]
+      ],
+      "downward": 6,
+      "rel": 0.00114329,
+      "endAhead": "83.7 km",
+      "downs": [
+        "77.238 km"
+      ]
+    },
+    {
+      "endChunk": "78.4 km",
+      "down": 1,
+      "chunk": 783,
+      "startChunk": "78.3 km",
+      "frac": 0.46801758,
+      "downers": [
+        [
+          "133",
+          "Alessio Guidi"
+        ]
+      ],
+      "downward": 5,
+      "rel": 0.00095274,
+      "endAhead": "84.8 km",
+      "downs": [
+        "78.397 km"
+      ]
+    },
+    {
+      "endChunk": "79.4 km",
+      "down": 1,
+      "chunk": 793,
+      "startChunk": "79.3 km",
+      "frac": 0.47558594,
+      "downers": [
+        [
+          "140",
+          "Maurizio Maina"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.0007622,
+      "endAhead": "85.8 km",
+      "downs": [
+        "79.394 km"
+      ]
+    },
+    {
+      "endChunk": "80.4 km",
+      "down": 1,
+      "chunk": 803,
+      "startChunk": "80.3 km",
+      "frac": 0.48193359,
+      "downers": [
+        [
+          "169",
+          "Alessandro Vallero"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.0007622,
+      "endAhead": "86.8 km",
+      "downs": [
+        "80.368 km"
+      ]
+    },
+    {
+      "endChunk": "80.6 km",
+      "down": 1,
+      "chunk": 805,
+      "startChunk": "80.5 km",
+      "frac": 0.4831543,
+      "downers": [
+        [
+          "147",
+          "Francesco Orcese"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00057165,
+      "endAhead": "87.0 km",
+      "downs": [
+        "80.586 km"
+      ]
+    },
+    {
+      "endChunk": "83.6 km",
+      "down": 1,
+      "chunk": 835,
+      "startChunk": "83.5 km",
+      "frac": 0.49438477,
+      "downers": [
+        [
+          "122",
+          "Angelo Dell’Aira"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.0003811,
+      "endAhead": "90.0 km",
+      "downs": [
+        "83.562 km"
+      ]
+    },
+    {
+      "endChunk": "86.5 km",
+      "down": 1,
+      "chunk": 864,
+      "startChunk": "86.4 km",
+      "frac": 0.5,
+      "downers": [
+        [
+          "146",
+          "Joachim Oberhauser"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00019055,
+      "endAhead": "92.9 km",
+      "downs": [
+        "86.497 km"
+      ]
+    }
+  ],
+  "lookahead": 64,
+  "minDistance": "5.000 km",
+  "landout": 41
+}

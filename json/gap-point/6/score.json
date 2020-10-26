@@ -1,0 +1,3750 @@
+[
+  [
+    [
+      "111",
+      "Marco Busetta"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 413.9,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 185.1,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 962.205,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "27.89 km / h",
+        "ssElapsed": "2.165803 h",
+        "gsElapsed": "2.173867 h",
+        "es": "2020-08-08T13:55:25.920820879578Z",
+        "ss": "2020-08-08T11:45:29.028397696423Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "27.80 km / h"
+      },
+      "total": 962.205,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "1"
+    }
+  ],
+  [
+    [
+      "159",
+      "Krzysztof Schmidt"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 405.1,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 184.7,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 953.099,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "27.82 km / h",
+        "ssElapsed": "2.171732 h",
+        "gsElapsed": "2.178424 h",
+        "es": "2020-08-08T13:55:42.326508306171Z",
+        "ss": "2020-08-08T11:45:24.09131509955Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "27.70 km / h"
+      },
+      "total": 953.099,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "2"
+    }
+  ],
+  [
+    [
+      "171",
+      "Biagio Alberto Vitale"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 403.6,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 183.3,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 950.156,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "27.80 km / h",
+        "ssElapsed": "2.173112 h",
+        "gsElapsed": "2.179648 h",
+        "es": "2020-08-08T13:55:46.732299346514Z",
+        "ss": "2020-08-08T11:45:23.528384642303Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "27.70 km / h"
+      },
+      "total": 950.156,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "3"
+    }
+  ],
+  [
+    [
+      "146",
+      "Joachim Oberhauser"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 401.5,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 184.2,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 948.998,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "27.74 km / h",
+        "ssElapsed": "2.177722 h",
+        "gsElapsed": "2.181489 h",
+        "es": "2020-08-08T13:55:53.361316510954Z",
+        "ss": "2020-08-08T11:45:13.563713460414Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "27.70 km / h"
+      },
+      "total": 948.998,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "4"
+    }
+  ],
+  [
+    [
+      "106",
+      "Christian Biasi"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 395.5,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 179,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 937.758,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "27.74 km / h",
+        "ssElapsed": "2.177840 h",
+        "gsElapsed": "2.187616 h",
+        "es": "2020-08-08T13:56:15.417431863441Z",
+        "ss": "2020-08-08T11:45:35.194280477294Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "27.60 km / h"
+      },
+      "total": 937.758,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "5"
+    }
+  ],
+  [
+    [
+      "180",
+      "Michal Gierlach"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 392,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 181.1,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 936.391,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "27.72 km / h",
+        "ssElapsed": "2.179424 h",
+        "gsElapsed": "2.191740 h",
+        "es": "2020-08-08T13:56:30.263505932044Z",
+        "ss": "2020-08-08T11:45:44.338304333912Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "27.60 km / h"
+      },
+      "total": 936.391,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "6"
+    }
+  ],
+  [
+    [
+      "155",
+      "Alfio Ragaglia"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 387.7,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 183.2,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 934.131,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "27.54 km / h",
+        "ssElapsed": "2.193833 h",
+        "gsElapsed": "2.197343 h",
+        "es": "2020-08-08T13:56:50.434607770013Z",
+        "ss": "2020-08-08T11:45:12.636783006413Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "27.50 km / h"
+      },
+      "total": 934.131,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "7"
+    }
+  ],
+  [
+    [
+      "108",
+      "Michele Boschi"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 372.4,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 188.4,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 924.047,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "27.33 km / h",
+        "ssElapsed": "2.209983 h",
+        "gsElapsed": "2.220710 h",
+        "es": "2020-08-08T13:58:14.555180476159Z",
+        "ss": "2020-08-08T11:45:38.617453401447Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "27.20 km / h"
+      },
+      "total": 924.047,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "8"
+    }
+  ],
+  [
+    [
+      "141",
+      "Albino Malli"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 374.5,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 182,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 919.784,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "27.38 km / h",
+        "ssElapsed": "2.206443 h",
+        "gsElapsed": "2.217106 h",
+        "es": "2020-08-08T13:58:01.580383766167Z",
+        "ss": "2020-08-08T11:45:38.386403667558Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "27.20 km / h"
+      },
+      "total": 919.784,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "9"
+    }
+  ],
+  [
+    [
+      "148",
+      "Luciano Pagnoni"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 378.2,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 175.3,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 916.671,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "27.56 km / h",
+        "ssElapsed": "2.191494 h",
+        "gsElapsed": "2.211261 h",
+        "es": "2020-08-08T13:57:40.540883956043Z",
+        "ss": "2020-08-08T11:46:11.163315376744Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "27.30 km / h"
+      },
+      "total": 916.671,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "10"
+    }
+  ],
+  [
+    [
+      "154",
+      "Stefano Pucci"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 372,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 175.4,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 910.722,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "27.39 km / h",
+        "ssElapsed": "2.205771 h",
+        "gsElapsed": "2.221282 h",
+        "es": "2020-08-08T13:58:16.61489817286Z",
+        "ss": "2020-08-08T11:45:55.839245184971Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "27.20 km / h"
+      },
+      "total": 910.722,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "11"
+    }
+  ],
+  [
+    [
+      "116",
+      "Ivan Centa"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 361.2,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 176.3,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 900.749,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "27.00 km / h",
+        "ssElapsed": "2.237021 h",
+        "gsElapsed": "2.240810 h",
+        "es": "2020-08-08T13:59:26.916479068223Z",
+        "ss": "2020-08-08T11:45:13.639403182317Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "27.00 km / h"
+      },
+      "total": 900.749,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "12"
+    }
+  ],
+  [
+    [
+      "164",
+      "Anca Tabara"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 360.4,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 165,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 888.64,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "27.12 km / h",
+        "ssElapsed": "2.227750 h",
+        "gsElapsed": "2.242414 h",
+        "es": "2020-08-08T13:59:32.691910974814Z",
+        "ss": "2020-08-08T11:45:52.7924657099Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "26.90 km / h"
+      },
+      "total": 888.64,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "13"
+    }
+  ],
+  [
+    [
+      "104",
+      "Loris Berta"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 350.2,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 171.5,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 884.933,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "26.88 km / h",
+        "ssElapsed": "2.247323 h",
+        "gsElapsed": "2.262891 h",
+        "es": "2020-08-08T14:00:46.407810967563Z",
+        "ss": "2020-08-08T11:45:56.044605073455Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "26.70 km / h"
+      },
+      "total": 884.933,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "14"
+    }
+  ],
+  [
+    [
+      "112",
+      "Silvia Buzzi Ferraris"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 332,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 169.8,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 865.11,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "26.38 km / h",
+        "ssElapsed": "2.290055 h",
+        "gsElapsed": "2.303600 h",
+        "es": "2020-08-08T14:03:12.959718957515Z",
+        "ss": "2020-08-08T11:45:48.760557290613Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "26.20 km / h"
+      },
+      "total": 865.11,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "15"
+    }
+  ],
+  [
+    [
+      "165",
+      "Andrea Terenziani"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 319.2,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 169.4,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 851.85,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "25.90 km / h",
+        "ssElapsed": "2.332187 h",
+        "gsElapsed": "2.335103 h",
+        "es": "2020-08-08T14:05:06.370439780958Z",
+        "ss": "2020-08-08T11:45:10.495468028866Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "25.90 km / h"
+      },
+      "total": 851.85,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "16"
+    }
+  ],
+  [
+    [
+      "145",
+      "Federico Nevastro"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 293.7,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 170.3,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 827.26,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "25.14 km / h",
+        "ssElapsed": "2.402916 h",
+        "gsElapsed": "2.404555 h",
+        "es": "2020-08-08T14:09:16.396739400075Z",
+        "ss": "2020-08-08T11:45:05.897529474827Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "25.10 km / h"
+      },
+      "total": 827.26,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "17"
+    }
+  ],
+  [
+    [
+      "156",
+      "Massimo Rapari"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 293.8,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 168,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 825.018,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "25.29 km / h",
+        "ssElapsed": "2.388162 h",
+        "gsElapsed": "2.404346 h",
+        "es": "2020-08-08T14:09:15.646663321286Z",
+        "ss": "2020-08-08T11:45:58.26426413667Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "25.10 km / h"
+      },
+      "total": 825.018,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "18"
+    }
+  ],
+  [
+    [
+      "132",
+      "Jacek Górski"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 293.2,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 155.9,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 812.352,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "25.23 km / h",
+        "ssElapsed": "2.394690 h",
+        "gsElapsed": "2.406048 h",
+        "es": "2020-08-08T14:09:21.773621558475Z",
+        "ss": "2020-08-08T11:45:40.889962391621Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "25.10 km / h"
+      },
+      "total": 812.352,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "19"
+    }
+  ],
+  [
+    [
+      "138",
+      "Marco Littamè"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 291.5,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 155.6,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 810.346,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "25.13 km / h",
+        "ssElapsed": "2.403888 h",
+        "gsElapsed": "2.411010 h",
+        "es": "2020-08-08T14:09:39.634421222024Z",
+        "ss": "2020-08-08T11:45:25.638970195546Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "25.10 km / h"
+      },
+      "total": 810.346,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "20="
+    }
+  ],
+  [
+    [
+      "175",
+      "Mariusz Wisniowski"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 292,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 154.9,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 810.176,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "25.16 km / h",
+        "ssElapsed": "2.401018 h",
+        "gsElapsed": "2.409541 h",
+        "es": "2020-08-08T14:09:34.347007222028Z",
+        "ss": "2020-08-08T11:45:30.681534286984Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "25.10 km / h"
+      },
+      "total": 810.176,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "20="
+    }
+  ],
+  [
+    [
+      "130",
+      "Andrea Garolla"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 275.2,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 165.2,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 803.709,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "24.64 km / h",
+        "ssElapsed": "2.451916 h",
+        "gsElapsed": "2.459783 h",
+        "es": "2020-08-08T14:12:35.218000381096Z",
+        "ss": "2020-08-08T11:45:28.320986568341Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "24.60 km / h"
+      },
+      "total": 803.709,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "22"
+    }
+  ],
+  [
+    [
+      "173",
+      "Paolo Zammarchi"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 269.4,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 166.8,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 799.446,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "24.47 km / h",
+        "ssElapsed": "2.468415 h",
+        "gsElapsed": "2.477945 h",
+        "es": "2020-08-08T14:13:40.601328378372Z",
+        "ss": "2020-08-08T11:45:34.308597976676Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "24.40 km / h"
+      },
+      "total": 799.446,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "23="
+    }
+  ],
+  [
+    [
+      "142",
+      "Luca Mammucari"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 293.4,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 142.7,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 799.394,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "25.30 km / h",
+        "ssElapsed": "2.387467 h",
+        "gsElapsed": "2.405474 h",
+        "es": "2020-08-08T14:09:19.708073813599Z",
+        "ss": "2020-08-08T11:46:04.827638535001Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "25.10 km / h"
+      },
+      "total": 799.394,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "23="
+    }
+  ],
+  [
+    [
+      "172",
+      "Alessio Voltan"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 280.5,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 155.3,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 798.997,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "24.78 km / h",
+        "ssElapsed": "2.438145 h",
+        "gsElapsed": "2.443712 h",
+        "es": "2020-08-08T14:11:37.364293835546Z",
+        "ss": "2020-08-08T11:45:20.041183672602Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "24.70 km / h"
+      },
+      "total": 798.997,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "23="
+    }
+  ],
+  [
+    [
+      "168",
+      "Marco Valentini"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 282,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 152.1,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 797.28,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "24.85 km / h",
+        "ssElapsed": "2.431154 h",
+        "gsElapsed": "2.439195 h",
+        "es": "2020-08-08T14:11:21.100340314943Z",
+        "ss": "2020-08-08T11:45:28.946080141526Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "24.80 km / h"
+      },
+      "total": 797.28,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "26="
+    }
+  ],
+  [
+    [
+      "153",
+      "Gianbasilio Profiti"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 278.5,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 155,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 796.692,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "24.78 km / h",
+        "ssElapsed": "2.437581 h",
+        "gsElapsed": "2.449754 h",
+        "es": "2020-08-08T14:11:59.112939917287Z",
+        "ss": "2020-08-08T11:45:43.820921130531Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "24.70 km / h"
+      },
+      "total": 796.692,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "26="
+    }
+  ],
+  [
+    [
+      "161",
+      "Matteo Siragna"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 280.1,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 145.3,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 788.667,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "24.92 km / h",
+        "ssElapsed": "2.424426 h",
+        "gsElapsed": "2.444754 h",
+        "es": "2020-08-08T14:11:41.116061625203Z",
+        "ss": "2020-08-08T11:46:13.183690290695Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "24.70 km / h"
+      },
+      "total": 788.667,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "28"
+    }
+  ],
+  [
+    [
+      "115",
+      "Alberto Castagna"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 271.3,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 153.2,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 787.719,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "24.56 km / h",
+        "ssElapsed": "2.459807 h",
+        "gsElapsed": "2.471973 h",
+        "es": "2020-08-08T14:13:19.102036784388Z",
+        "ss": "2020-08-08T11:45:43.79616649232Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "24.40 km / h"
+      },
+      "total": 787.719,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "29"
+    }
+  ],
+  [
+    [
+      "169",
+      "Alessandro Vallero"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 261.7,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 159.1,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 784.089,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "24.27 km / h",
+        "ssElapsed": "2.488594 h",
+        "gsElapsed": "2.502567 h",
+        "es": "2020-08-08T14:15:09.240307420267Z",
+        "ss": "2020-08-08T11:45:50.303358512653Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "24.10 km / h"
+      },
+      "total": 784.089,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "30"
+    }
+  ],
+  [
+    [
+      "126",
+      "Alessandro Fuzzi"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 257.5,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 161.5,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 782.326,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "24.22 km / h",
+        "ssElapsed": "2.494124 h",
+        "gsElapsed": "2.516158 h",
+        "es": "2020-08-08T14:15:58.168191336573Z",
+        "ss": "2020-08-08T11:46:19.320197985065Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "24.00 km / h"
+      },
+      "total": 782.326,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "31="
+    }
+  ],
+  [
+    [
+      "105",
+      "Daniele Bevilacqua"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 254,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 165.1,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 782.299,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "23.99 km / h",
+        "ssElapsed": "2.517719 h",
+        "gsElapsed": "2.528016 h",
+        "es": "2020-08-08T14:16:40.857301314092Z",
+        "ss": "2020-08-08T11:45:37.067856030909Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "23.90 km / h"
+      },
+      "total": 782.299,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "31="
+    }
+  ],
+  [
+    [
+      "174",
+      "Davide Zaltron"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 264.5,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 151.3,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 778.984,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "24.28 km / h",
+        "ssElapsed": "2.487947 h",
+        "gsElapsed": "2.493684 h",
+        "es": "2020-08-08T14:14:37.263249369393Z",
+        "ss": "2020-08-08T11:45:20.655838268411Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "24.20 km / h"
+      },
+      "total": 778.984,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "33"
+    }
+  ],
+  [
+    [
+      "157",
+      "Elio Rossi"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 261.7,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 150.6,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 775.618,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "24.25 km / h",
+        "ssElapsed": "2.490564 h",
+        "gsElapsed": "2.502450 h",
+        "es": "2020-08-08T14:15:08.82116764802Z",
+        "ss": "2020-08-08T11:45:42.790542469283Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "24.10 km / h"
+      },
+      "total": 775.618,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "34"
+    }
+  ],
+  [
+    [
+      "166",
+      "Tiziano Trambaioli"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 266.6,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 143,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 772.864,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "24.39 km / h",
+        "ssElapsed": "2.476595 h",
+        "gsElapsed": "2.486952 h",
+        "es": "2020-08-08T14:14:13.026131416322Z",
+        "ss": "2020-08-08T11:45:37.282414532159Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "24.30 km / h"
+      },
+      "total": 772.864,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "35"
+    }
+  ],
+  [
+    [
+      "128",
+      "Michele Gaiba"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 274.9,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 132,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 770.175,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "24.61 km / h",
+        "ssElapsed": "2.454224 h",
+        "gsElapsed": "2.460737 h",
+        "es": "2020-08-08T14:12:38.654698444924Z",
+        "ss": "2020-08-08T11:45:23.448296800954Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "24.60 km / h"
+      },
+      "total": 770.175,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "36"
+    }
+  ],
+  [
+    [
+      "137",
+      "Slawomir Kaczynski"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 261.9,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 141.8,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 766.964,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "24.23 km / h",
+        "ssElapsed": "2.493335 h",
+        "gsElapsed": "2.501929 h",
+        "es": "2020-08-08T14:15:06.944081449519Z",
+        "ss": "2020-08-08T11:45:30.937555594612Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "24.10 km / h"
+      },
+      "total": 766.964,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "37"
+    }
+  ],
+  [
+    [
+      "151",
+      "Piergiorgio Pintossi"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 259.8,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 141.8,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 764.836,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "24.10 km / h",
+        "ssElapsed": "2.506288 h",
+        "gsElapsed": "2.508780 h",
+        "es": "2020-08-08T14:15:31.609078416267Z",
+        "ss": "2020-08-08T11:45:08.973048125623Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "24.10 km / h"
+      },
+      "total": 764.836,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "38"
+    }
+  ],
+  [
+    [
+      "170",
+      "Paolo Veratti"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 230.9,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 164.9,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 759.046,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "23.24 km / h",
+        "ssElapsed": "2.599105 h",
+        "gsElapsed": "2.607394 h",
+        "es": "2020-08-08T14:21:26.616766989612Z",
+        "ss": "2020-08-08T11:45:29.838511089054Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "23.20 km / h"
+      },
+      "total": 759.046,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "39"
+    }
+  ],
+  [
+    [
+      "109",
+      "Federico Brown Manzone"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 240.7,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 154.5,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 758.455,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "23.52 km / h",
+        "ssElapsed": "2.568540 h",
+        "gsElapsed": "2.572785 h",
+        "es": "2020-08-08T14:19:22.026477883468Z",
+        "ss": "2020-08-08T11:45:15.283636309315Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "23.50 km / h"
+      },
+      "total": 758.455,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "40"
+    }
+  ],
+  [
+    [
+      "150",
+      "Luca Paoletti"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 250,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 141,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 754.223,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "23.85 km / h",
+        "ssElapsed": "2.532360 h",
+        "gsElapsed": "2.541238 h",
+        "es": "2020-08-08T14:17:28.457029045424Z",
+        "ss": "2020-08-08T11:45:31.96260641394Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "23.80 km / h"
+      },
+      "total": 754.223,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "41"
+    }
+  ],
+  [
+    [
+      "129",
+      "Luciano Gallo"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 194,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 145.8,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 703.007,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "22.03 km / h",
+        "ssElapsed": "2.742322 h",
+        "gsElapsed": "2.744971 h",
+        "es": "2020-08-08T14:29:41.895894474976Z",
+        "ss": "2020-08-08T11:45:09.535108244323Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "22.00 km / h"
+      },
+      "total": 703.007,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "42"
+    }
+  ],
+  [
+    [
+      "101",
+      "Diego Ardissone"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 185,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 147.5,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 695.816,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "21.96 km / h",
+        "ssElapsed": "2.751212 h",
+        "gsElapsed": "2.780131 h",
+        "es": "2020-08-08T14:31:48.469898128997Z",
+        "ss": "2020-08-08T11:46:44.105839766986Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "21.70 km / h"
+      },
+      "total": 695.816,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "43"
+    }
+  ],
+  [
+    [
+      "124",
+      "Paolo Facchini"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 155.3,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 146.3,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 664.869,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "20.93 km / h",
+        "ssElapsed": "2.886140 h",
+        "gsElapsed": "2.902088 h",
+        "es": "2020-08-08T14:39:07.515547826434Z",
+        "ss": "2020-08-08T11:45:57.412956748875Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "20.80 km / h"
+      },
+      "total": 664.869,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "44"
+    }
+  ],
+  [
+    [
+      "162",
+      "Arkadiusz Slusarczyk"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 155.2,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 132.1,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 650.484,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "20.94 km / h",
+        "ssElapsed": "2.885212 h",
+        "gsElapsed": "2.902583 h",
+        "es": "2020-08-08T14:39:09.300474247822Z",
+        "ss": "2020-08-08T11:46:02.535899750253Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "20.80 km / h"
+      },
+      "total": 650.484,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "45"
+    }
+  ],
+  [
+    [
+      "135",
+      "Cristian Inverardi"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 64.5,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 116.9,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 544.658,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "18.63 km / h",
+        "ssElapsed": "3.242113 h",
+        "gsElapsed": "3.317299 h",
+        "es": "2020-08-08T15:04:02.274715225264Z",
+        "ss": "2020-08-08T11:49:30.668800726498Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "18.20 km / h"
+      },
+      "total": 544.658,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "46"
+    }
+  ],
+  [
+    [
+      "113",
+      "Tommaso Carlini"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 93.8,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 79.6,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 536.689,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "19.12 km / h",
+        "ssElapsed": "3.160107 h",
+        "gsElapsed": "3.176500 h",
+        "es": "2020-08-08T14:55:35.401365872216Z",
+        "ss": "2020-08-08T11:45:59.015092485321Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "19.00 km / h"
+      },
+      "total": 536.689,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "47"
+    }
+  ],
+  [
+    [
+      "119",
+      "Maria Antonietta D'Angela"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "51.302 km",
+        "flown": "51.302 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 297.968,
+        "distance": 297.968,
+        "leading": 222.9,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "169.000 m",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "45.641 km",
+      "subtotal": 520.828,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-08-08T11:50:00.588266406356Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 520.828,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "48"
+    }
+  ],
+  [
+    [
+      "178",
+      "Marius Saigiu"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 84.4,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 56.2,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 503.796,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "18.78 km / h",
+        "ssElapsed": "3.215965 h",
+        "gsElapsed": "3.221342 h",
+        "es": "2020-08-08T14:58:16.831387837621Z",
+        "ss": "2020-08-08T11:45:19.355644629519Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "18.80 km / h"
+      },
+      "total": 503.796,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "49"
+    }
+  ],
+  [
+    [
+      "176",
+      "Francesco Fontanesi"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 84.6,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 46.2,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 494.034,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "18.97 km / h",
+        "ssElapsed": "3.183784 h",
+        "gsElapsed": "3.220040 h",
+        "es": "2020-08-08T14:58:12.142672971363Z",
+        "ss": "2020-08-08T11:47:10.520097284516Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "18.80 km / h"
+      },
+      "total": 494.034,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "50"
+    }
+  ],
+  [
+    [
+      "144",
+      "Riccardo Marchetto"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 88.4,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 41.3,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 492.955,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "19.12 km / h",
+        "ssElapsed": "3.159202 h",
+        "gsElapsed": "3.202216 h",
+        "es": "2020-08-08T14:57:07.976700024306Z",
+        "ss": "2020-08-08T11:47:34.850508493691Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "18.90 km / h"
+      },
+      "total": 492.955,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "51"
+    }
+  ],
+  [
+    [
+      "107",
+      "Gabriele Bonafini"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 89.2,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 37.9,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 490.353,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "19.01 km / h",
+        "ssElapsed": "3.178406 h",
+        "gsElapsed": "3.198328 h",
+        "es": "2020-08-08T14:56:53.981021144656Z",
+        "ss": "2020-08-08T11:46:11.720599680081Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "18.90 km / h"
+      },
+      "total": 490.353,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "52="
+    }
+  ],
+  [
+    [
+      "143",
+      "Valerio Marchetti"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 90.6,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 36.2,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 490.095,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "19.19 km / h",
+        "ssElapsed": "3.147738 h",
+        "gsElapsed": "3.191647 h",
+        "es": "2020-08-08T14:56:29.928603804997Z",
+        "ss": "2020-08-08T11:47:38.073373272146Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "18.90 km / h"
+      },
+      "total": 490.095,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "52="
+    }
+  ],
+  [
+    [
+      "152",
+      "Alessandro Pompei"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 90.7,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 30.3,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 484.345,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "18.99 km / h",
+        "ssElapsed": "3.180440 h",
+        "gsElapsed": "3.191023 h",
+        "es": "2020-08-08T14:56:27.681412215928Z",
+        "ss": "2020-08-08T11:45:38.095762487613Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "18.90 km / h"
+      },
+      "total": 484.345,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "54="
+    }
+  ],
+  [
+    [
+      "136",
+      "Gbriel-Alexandru Ivan"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 89,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 31.6,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "62.543 km",
+      "subtotal": 483.852,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "19.47 km / h",
+        "ssElapsed": "3.103333 h",
+        "gsElapsed": "3.199225 h",
+        "es": "2020-08-08T14:56:57.209745752744Z",
+        "ss": "2020-08-08T11:50:45.209797370534Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "18.90 km / h"
+      },
+      "total": 483.852,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "54="
+    }
+  ],
+  [
+    [
+      "133",
+      "Alessio Guidi"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "48.122 km",
+        "flown": "48.122 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 279.498,
+        "distance": 279.498,
+        "leading": 115.8,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "332.000 m",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "47.644 km",
+      "subtotal": 395.344,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-08-08T11:45:55.873579983728Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 395.344,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "56"
+    }
+  ],
+  [
+    [
+      "117",
+      "Gianfranco Crestani"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "45.780 km",
+        "flown": "45.780 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 265.896,
+        "distance": 265.896,
+        "leading": 122,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "310.000 m",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "44.690 km",
+      "subtotal": 387.893,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-08-08T11:45:33.988511271668Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 387.893,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "57"
+    }
+  ],
+  [
+    [
+      "121",
+      "Giorgio Darra"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "45.614 km",
+        "flown": "45.614 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 264.931,
+        "distance": 264.931,
+        "leading": 113.1,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "302.000 m",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "45.353 km",
+      "subtotal": 378.056,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-08-08T11:45:39.425485220964Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 378.056,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "58"
+    }
+  ],
+  [
+    [
+      "122",
+      "Angelo Dell’Aira"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "46.204 km",
+        "flown": "46.204 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 268.358,
+        "distance": 268.358,
+        "leading": 108.7,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "306.000 m",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "45.609 km",
+      "subtotal": 377.093,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-08-08T11:45:43.221447739704Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 377.093,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "59="
+    }
+  ],
+  [
+    [
+      "158",
+      "Antonio Ruta"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "45.762 km",
+        "flown": "45.762 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 265.791,
+        "distance": 265.791,
+        "leading": 110.9,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "305.000 m",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "45.333 km",
+      "subtotal": 376.655,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-08-08T11:46:05.078292443973Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 376.655,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "59="
+    }
+  ],
+  [
+    [
+      "127",
+      "Richárd Gabrieli"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "44.066 km",
+        "flown": "44.066 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 255.94,
+        "distance": 255.94,
+        "leading": 100.9,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "338.000 m",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "44.065 km",
+      "subtotal": 356.809,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-08-08T11:45:45.783352473204Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 356.809,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "61"
+    }
+  ],
+  [
+    [
+      "102",
+      "Matteo Bacchiocchi"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "42.396 km",
+        "flown": "42.396 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 246.241,
+        "distance": 246.241,
+        "leading": 89.2,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "322.000 m",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "42.392 km",
+      "subtotal": 335.47,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-08-08T11:45:34.653529688142Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 335.47,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "62"
+    }
+  ],
+  [
+    [
+      "140",
+      "Maurizio Maina"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "41.704 km",
+        "flown": "41.704 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 242.222,
+        "distance": 242.222,
+        "leading": 80.7,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "355.000 m",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "41.513 km",
+      "subtotal": 322.88,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-08-08T11:45:58.573823872771Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 322.88,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "63"
+    }
+  ],
+  [
+    [
+      "167",
+      "Ionut Ulici"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "51.600 km",
+        "flown": "51.600 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 299.699,
+        "distance": 299.699,
+        "leading": 14.9,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "205.000 m",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "51.206 km",
+      "subtotal": 314.578,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-08-08T11:48:20.052545832375Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 314.578,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "64"
+    }
+  ],
+  [
+    [
+      "125",
+      "Grzegorz Fiema"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "42.380 km",
+        "flown": "42.380 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 246.148,
+        "distance": 246.148,
+        "leading": 40.6,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "323.000 m",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "42.365 km",
+      "subtotal": 286.743,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-08-08T11:45:10.475827952182Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 286.743,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "65"
+    }
+  ],
+  [
+    [
+      "147",
+      "Francesco Orcese"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "43.527 km",
+        "flown": "43.527 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 252.81,
+        "distance": 252.81,
+        "leading": 19.8,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "355.000 m",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "42.835 km",
+      "subtotal": 272.597,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-08-08T11:45:47.129951329077Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 272.597,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "66"
+    }
+  ],
+  [
+    [
+      "149",
+      "Alessandro Palma"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "16.691 km",
+        "flown": "16.691 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 96.943,
+        "distance": 96.943,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "309.000 m",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "16.052 km",
+      "subtotal": 96.943,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-08-08T11:45:59.593846428332Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 96.943,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "67"
+    }
+  ],
+  [
+    [
+      "139",
+      "Alessandro Madaluni"
+    ],
+    {
+      "jump": "122.156 s",
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 251.4,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 161.5,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 696.146,
+      "landedMade": "62.543 km",
+      "subtotal": 776.146,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [
+          {
+            "penalty-reset": 80
+          }
+        ],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "23.50 km / h",
+        "ssElapsed": "2.570425 h",
+        "gsElapsed": "2.536493 h",
+        "es": "2020-08-08T14:17:11.375283202183Z",
+        "ss": "2020-08-08T11:42:57.843541371386Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "23.80 km / h"
+      },
+      "total": 80,
+      "penalties": {
+        "adds": [],
+        "resets": [
+          {
+            "penalty-reset": 80
+          }
+        ],
+        "muls": []
+      },
+      "place": "68="
+    }
+  ],
+  [
+    [
+      "177",
+      "Bogdan Bialka"
+    ],
+    {
+      "jump": "2.495 s",
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 401.7,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 180.8,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 865.777,
+      "landedMade": "62.543 km",
+      "subtotal": 945.777,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [
+          {
+            "penalty-reset": 80
+          }
+        ],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "27.68 km / h",
+        "ssElapsed": "2.182005 h",
+        "gsElapsed": "2.181312 h",
+        "es": "2020-08-08T13:55:52.723984728352Z",
+        "ss": "2020-08-08T11:44:57.504989547967Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "27.70 km / h"
+      },
+      "total": 80,
+      "penalties": {
+        "adds": [],
+        "resets": [
+          {
+            "penalty-reset": 80
+          }
+        ],
+        "muls": []
+      },
+      "place": "68="
+    }
+  ],
+  [
+    [
+      "120",
+      "Gabriele D'Arrigo"
+    ],
+    {
+      "jump": "156.263 s",
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 248.3,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 115.8,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 647.361,
+      "landedMade": "62.543 km",
+      "subtotal": 727.361,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [
+          {
+            "penalty-reset": 80
+          }
+        ],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "23.32 km / h",
+        "ssElapsed": "2.590308 h",
+        "gsElapsed": "2.546902 h",
+        "es": "2020-08-08T14:17:48.846783102875Z",
+        "ss": "2020-08-08T11:42:23.736877521979Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "23.70 km / h"
+      },
+      "total": 80,
+      "penalties": {
+        "adds": [],
+        "resets": [
+          {
+            "penalty-reset": 80
+          }
+        ],
+        "muls": []
+      },
+      "place": "68="
+    }
+  ],
+  [
+    [
+      "160",
+      "Giuseppe Simone"
+    ],
+    {
+      "jump": "129.512 s",
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 92,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 77,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 452.25,
+      "landedMade": "62.543 km",
+      "subtotal": 532.25,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [
+          {
+            "penalty-reset": 80
+          }
+        ],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "18.75 km / h",
+        "ssElapsed": "3.221240 h",
+        "gsElapsed": "3.185264 h",
+        "es": "2020-08-08T14:56:06.951240687416Z",
+        "ss": "2020-08-08T11:42:50.487847351408Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "19.00 km / h"
+      },
+      "total": 80,
+      "penalties": {
+        "adds": [],
+        "resets": [
+          {
+            "penalty-reset": 80
+          }
+        ],
+        "muls": []
+      },
+      "place": "68="
+    }
+  ],
+  [
+    [
+      "118",
+      "Igor D'Agostino"
+    ],
+    {
+      "jump": "159.171 s",
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 85.3,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 43.5,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 412.058,
+      "landedMade": "62.543 km",
+      "subtotal": 492.058,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [
+          {
+            "penalty-reset": 80
+          }
+        ],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "18.52 km / h",
+        "ssElapsed": "3.260976 h",
+        "gsElapsed": "3.216762 h",
+        "es": "2020-08-08T14:58:00.343338481638Z",
+        "ss": "2020-08-08T11:42:20.829098031187Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "18.80 km / h"
+      },
+      "total": 80,
+      "penalties": {
+        "adds": [],
+        "resets": [
+          {
+            "penalty-reset": 80
+          }
+        ],
+        "muls": []
+      },
+      "place": "68="
+    }
+  ],
+  [
+    [
+      "123",
+      "Sergio Di Fazio"
+    ],
+    {
+      "jump": "121.575 s",
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "62.543 km",
+        "flown": "62.543 km"
+      },
+      "breakdown": {
+        "time": 91.2,
+        "reach": 363.257,
+        "distance": 363.257,
+        "leading": 41.3,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 415.748,
+      "landedMade": "62.543 km",
+      "subtotal": 495.748,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [
+          {
+            "penalty-reset": 80
+          }
+        ],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": "18.74 km / h",
+        "ssElapsed": "3.222642 h",
+        "gsElapsed": "3.188871 h",
+        "es": "2020-08-08T14:56:19.935918523065Z",
+        "ss": "2020-08-08T11:42:58.424754271572Z",
+        "ssDistance": "60.408 km",
+        "gsVelocity": "18.90 km / h"
+      },
+      "total": 80,
+      "penalties": {
+        "adds": [],
+        "resets": [
+          {
+            "penalty-reset": 80
+          }
+        ],
+        "muls": []
+      },
+      "place": "68="
+    }
+  ],
+  [
+    [
+      "110",
+      "Klaudia Bulgakow"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "10.312 km",
+        "flown": "10.312 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 59.893,
+        "distance": 59.893,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "292.000 m",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "10.319 km",
+      "subtotal": 59.893,
+      "penaltyReason": "",
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "velocity": {
+        "gs": "2020-08-08T11:45:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2020-08-08T11:48:01.013670962675Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 59.893,
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
+      "place": "74"
+    }
+  ]
+]
